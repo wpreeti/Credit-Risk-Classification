@@ -6,7 +6,6 @@ Leveraging a logistic regression model to compare two versions of the dataset, u
 
 For both cases, we’ll get the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
-This README.md file, has a credit risk analysis report link.
 
 ## Instructions
 This challenge consists of the following subsections:
